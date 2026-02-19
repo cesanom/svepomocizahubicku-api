@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "svepomocizahubicku-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "svepomocizahubicku-db",
+			"database_id": "405f9bab-fac5-4aa6-bbff-ddc72cf38444"
+		}
+	]
+}
